@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Consumindo api da [Gamma](accenture-java-desafio.herokuapp.com) para registrar e autenticar
+Consumindo api da [Gamma](https://accenture-java-desafio.herokuapp.com/swagger-ui.html#/) para registrar e autenticar
 usuários. 
 
 ## Available Scripts
