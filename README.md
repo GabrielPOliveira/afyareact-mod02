@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Consumindo api da [Gamma](accenture-java-desafio.herokuapp.com) para registrar e autenticar
+usuários. 
+
 ## Available Scripts
 
 In the project directory, you can run:
